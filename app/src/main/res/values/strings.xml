@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Cats</string>
+    <string name="next">Next</string>
+    <string name="cats1">Chinchilla Longhair</string>
+    <string name="cats2">Ras Burmese</string>
+    <string name="cats3">Maine Coon</string>
+    <string name="cats4">African</string>
+    <string name="cats5">Tortoiseshell</string>
+    <string name="cats6">Calico</string>
+</resources>
